@@ -1,0 +1,16 @@
+demos
+lvgl_v9_squareline_ui_program
+*.zip
+build/
+*.a
+*.elf
+*.map
+*.bin
+*.o
+*.pyc
+__pycache__/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
